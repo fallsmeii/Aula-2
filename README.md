@@ -100,3 +100,4 @@
     ☆ ls -l lx
     ☆ ls ww
     ☆ ctrl l - clear no win10
+    p

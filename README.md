@@ -4,6 +4,8 @@
 ---
 ### Config iniciais:
 
+<img src=a.png width=1000 heigth=1000>
+
 <img src=um.png width=1000 heigth=1000>
 
     ☆ git config —global user.name “fallsmeii”

@@ -4,11 +4,10 @@
 ---
 ### Config iniciais:
 
-<img src=a.png width=1000 heigth=1000>
 
-<img src=um.png width=1000 heigth=1000>
+<img src=um.png width=100 heigth=100>
 
-    ☆ git config —global user.name “fallsmeii”
+    ☆ git config --global user.name “fallsmeii”
 
     ☆ git config -- global user.email “fallsmeii502@gmai.com”
 
@@ -71,3 +70,5 @@
 <img src=seis.png>
 
 ---
+
+

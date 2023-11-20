@@ -79,5 +79,24 @@
 </div>
 
 ---
+---
+---
 
-
+### Anotações da Aula ###
+    ☆ git versiona o cods e é publi no hub
+    ☆ ~ = sempre indica usuario
+    ☆ pwd qual diretorio atual
+    ☆ cd muda p diret
+    ☆ inset - edita
+    ☆ sair do edit esq dois pontos wq
+    ☆ git n versiona sem o user_usuario e user_email
+    ☆ commit confirma o versionamento
+    ☆ git add. (tudo pra versionar)
+    ☆ unstage - tira do versionamento
+    ☆ git commit -m mensagem pra ve o q foi feito
+    ☆ git add e git commit é obrigatório
+    ☆ git log -u tds as alterações
+    ☆ ctrl c = volta pra linha de comando
+    ☆ ls -l lx
+    ☆ ls ww
+    ☆ ctrl l - clear no win10
